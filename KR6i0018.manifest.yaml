@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0018_000.yaml, hash: 'sha256:d75fd07206c880735024fa25ff98572857ec907956297231976f758ab1be06f5'}
-  - {seq: 1, filename: KR6i0018_001.yaml, hash: 'sha256:af7e93ef7e1ec5516a729f02fd3c4179aaedb26844aac64f6fe1ad65edc40f90'}
+  - {seq: 1, filename: KR6i0018_001.yaml, hash: 'sha256:7415e7f832b39a44fa1f8fa511b3bf0db227fc69ae31ad365d86d0914591d7bf'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0018_001.markers.yaml, hash: 'sha256:cd211d7f546fb6a13931470f2b6400816fd91f2f0fcfe9c7c3805e821bbf740f'}
+  - {seq: 0, role: markers, filename: assets/KR6i0018_000.markers.yaml, hash: 'sha256:0ef16eb2008b7fdc743ea0c752988d1bf74266c587f3ddd551f542b82e66d9cd'}
+  - {seq: 1, role: markers, filename: assets/KR6i0018_001.markers.yaml, hash: 'sha256:7d357c5d5aeafd6fb06bdb01d025fc982f6c0494799471cfb914fa322702a9d7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 十方千五百佛名經
   type: juan
   level: 1
-hash: sha256:abcbc75fd4a337052db8bb3c63e93aa1b42ed48652d3593c3b3a20dc763c40ee
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:aa87e98005d3d4b68d7c72bc8503299f091ff10a7f207f5ee531fe1b64e55798
