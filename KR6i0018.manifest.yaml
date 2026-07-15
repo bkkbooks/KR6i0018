@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0018/v1
 canonical_location: https://kanripo.org/bkk/KR6i0018/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 十方千五百佛名經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0018_000.yaml, hash: 'sha256:d75fd07206c880735024fa25ff98572857ec907956297231976f758ab1be06f5'}
-  - {seq: 1, filename: KR6i0018_001.yaml, hash: 'sha256:7415e7f832b39a44fa1f8fa511b3bf0db227fc69ae31ad365d86d0914591d7bf'}
+  - {seq: 1, filename: KR6i0018_001.yaml, hash: 'sha256:970fbbad8004f50b55ac7130d5ef072628918608a76562042fbdb442f87d1f1f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0018_000.markers.yaml, hash: 'sha256:0ef16eb2008b7fdc743ea0c752988d1bf74266c587f3ddd551f542b82e66d9cd'}
-  - {seq: 1, role: markers, filename: assets/KR6i0018_001.markers.yaml, hash: 'sha256:7d357c5d5aeafd6fb06bdb01d025fc982f6c0494799471cfb914fa322702a9d7'}
+  - {seq: 1, role: markers, filename: assets/KR6i0018_001.markers.yaml, hash: 'sha256:1fec49f974710d8330d757d45fa144ef10caa9516a1cb1e1e8bf163c10e8ed62'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 十方千五百佛名經
   type: juan
   level: 1
-hash: sha256:aa87e98005d3d4b68d7c72bc8503299f091ff10a7f207f5ee531fe1b64e55798
+hash: sha256:258bdb3a081af74fe2fd743da7fee2c9d25cd31c3eea46b026751e17d5e7f38d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
